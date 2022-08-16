@@ -1,3 +1,3 @@
 # Redux with Typescript
 
-Setting up redux with typescript
+Example app for learning how to set up redux with typescript
